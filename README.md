@@ -9,4 +9,4 @@ Automatic generation of captcha and compares with user entered text in php
 * Font can be changed as per your wish `$font = 'fonts/font.ttf';`
 
 ## Demo
-http://psuresh.com.np/misc/php-captcha
+http://projects.psuresh.com.np/php-captcha
